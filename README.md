@@ -18,6 +18,13 @@ Anaconda & Jupyter notebook
 ## Presentation: 
 PowerPoint Presentation attached to this Repo !
 
+## Highlights:
+
+## Link To Presentation / Visual Summary_:
+
+## Project Manager / Contributor:
+Akona Ciko | Akonaciko1@gmail.com | Gibit1 (GitHub username)
+
 ## Installation:
 Clone the repository and install the required dependencies:
 
@@ -25,4 +32,5 @@ Clone the repository and install the required dependencies:
 git clone <repository_link>
 cd soybean-classification
 pip install -r requirements.txt
+
 
