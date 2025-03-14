@@ -6,6 +6,13 @@ This project aims to classify soybean plant characteristics based on various agr
 ## Dataset:
 The dataset includes key features such as plant height, number of pods, chlorophyll content, protein percentage, seed yield, and relative water content in leaves.
 
+## Methodology:
+1. Data Preprocessing & Cleaning
+2. Exploratory Data Analysis [EDA]
+3. Feature Engineering
+4. Model Training & Evaluation
+5. Results & Insights
+
 ## Objective:
 The goal is to build a machine learning model that accurately predicts soybean plant characteristics, helping in yield optimization and sustainable farming practices.
 
