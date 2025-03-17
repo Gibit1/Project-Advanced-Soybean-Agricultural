@@ -1,4 +1,4 @@
-# Project: Advanced Soybean Agricultural|Classification
+# Project: Advanced Soybean Agricultural|Regression
 
 ## Project Overview:
 This project aims to classify soybean plant characteristics based on various agricultural parameters using machine learning models. The dataset contains 55,450 rows and 13 essential features related to plant growth, productivity, and nutritional value.
