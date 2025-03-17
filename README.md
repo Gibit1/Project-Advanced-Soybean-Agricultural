@@ -29,8 +29,11 @@ Key Features:
 
 ## Objective:
 The primary goal of this project is to develop a regression model that accurately predicts the Protein Content (PCO) in soybean crops based on various agricultural parameters. This will help researchers and farmers:
+
 ✅ Estimate protein levels in different soybean varieties.
+
 ✅ Optimize farming techniques to enhance soybean nutritional value.
+
 ✅ Identify key features that influence protein content.
 
 To achieve this, we will:
