@@ -37,10 +37,15 @@ The primary goal of this project is to develop a regression model that accuratel
 ✅ Identify key features that influence protein content.
 
 To achieve this, we will:
+
 1️⃣ Perform Exploratory Data Analysis (EDA) to understand feature relationships.
+
 2️⃣ Apply feature engineering and preprocessing techniques.
+
 3️⃣ Train multiple regression models (e.g., Linear Regression, Random Forest, etc.).
+
 4️⃣ Evaluate model performance using Mean Absolute Error (MAE), Mean Squared Error (MSE), and R² Score.
+
 5️⃣ Optimize the best model using cross-validation and hyperparameter tuning.
 
 ## Project Environments & Links:
